@@ -21,3 +21,7 @@ To stop running the app, press `Ctrl + c` in the terminal.
 ## Screenshots
 ![Correct tokens](./screenshots/correct-code.png)
 ![Invalid token](./screenshots/invalid-token.png)
+
+# State Diagram
+
+![State diagram image](./docs/state-diagram.png)
